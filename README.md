@@ -1,1 +1,0 @@
-# Telefon-shop-bot
